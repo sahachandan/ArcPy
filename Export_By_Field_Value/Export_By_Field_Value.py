@@ -22,7 +22,6 @@ if (fieldName == ""):
 	print "'"'fieldName'"' Variable is Blank. Please Insert FIELD NAME!."
 
 else:
-	
 	for lyr in arcpy.mapping.ListLayers(mxd,"*"):
 	
 		#Storing File Name in "featureName" Variable
