@@ -1,7 +1,7 @@
-####################################################################################
+#####################################################################################
 # Script Name: Export_By_Attribute_Value
 # Description: Export Shape File by its unique Attribute Value of required field
-# Link: https://github.com/sahachandan/ArcPy/tree/master/Export_By_Field_Value
+# Link: https://github.com/sahachandan/ArcPy/tree/master/Export_By_Attribute_Value
 #
 # Author: Chandan Saha
 # Date: 07.04.2018
