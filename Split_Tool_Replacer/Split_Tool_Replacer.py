@@ -1,4 +1,11 @@
-﻿##This Script needs ArcMap Advance License to run successfully
+﻿########################################################################################
+# Script Name: Split_Tool_Replacer
+# Description: Same like Split(Analysis) Tool, but doesn't need Advance License to run!
+# Link: https://github.com/sahachandan/ArcPy/tree/master/Split_Tool_Replacer
+#
+# Author: Chandan Saha
+# Date: 18.04.2018
+########################################################################################
 
 #Importing Modules
 import arcpy, os
