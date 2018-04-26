@@ -1,3 +1,13 @@
+########################################################################################
+# Script Name: Missing_ID_Founder
+# Description: Same like Split(Analysis) Tool, but doesn't need Advance License to run!
+# Link: https://github.com/sahachandan/ArcPy/tree/master/Missing_ID_Founder
+#
+# Author: Chandan Saha
+# Date Created: 26.04.2018
+# Last Date Modified: 26.04.2018
+########################################################################################
+
 import arcpy
 import random
 
