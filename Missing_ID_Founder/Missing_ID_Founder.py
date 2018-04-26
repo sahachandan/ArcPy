@@ -1,6 +1,6 @@
 ########################################################################################
 # Script Name: Missing_ID_Founder
-# Description: Same like Split(Analysis) Tool, but doesn't need Advance License to run!
+# Description: VLOOKUP in Field table
 # Link: https://github.com/sahachandan/ArcPy/tree/master/Missing_ID_Founder
 #
 # Author: Chandan Saha
