@@ -1,5 +1,6 @@
 # Name: GUIDGenerator
 # Description: Generate GUID using method "SHA-1" hash of namespace OID from 3D Polyline feature
+# Link: https://github.com/sahachandan/ArcPy/tree/master/GUID_Generator
 # Date Created: 08.05.2018
 # Last Date Modified: 13.05.2018
 # Author: Chandan Saha
