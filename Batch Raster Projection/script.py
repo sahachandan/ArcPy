@@ -2,8 +2,9 @@
 # Script Name: Batch Raster Projection (Script Tool Version)
 # Description: Project all raster files from specific directory using projected shape file
 #
+# Link: https://github.com/sahachandan/ArcPy/tree/master/Batch%20Raster%20Projection
 # Author: Chandan Saha
-# Date: 18.09.2018
+# Date: 19.09.2018
 ###########################################################################################
 
 import arcpy
